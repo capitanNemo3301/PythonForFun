@@ -1,2 +1,2 @@
-# PythonForFun
+# Game
 Some code to learn
